@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "219716093625",
+    "project_id": "recipemy-9f395",
+    "storage_bucket": "recipemy-9f395.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219716093625:android:7315659f5aaee251b33d68",
+        "android_client_info": {
+          "package_name": "com.freecode.fl_cruddemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "219716093625-67ns4kl9de0lrodrf00c330ha96lsi45.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGCn19bm2ih-yKLsFGYh61rHptJ5i9L00"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "219716093625-67ns4kl9de0lrodrf00c330ha96lsi45.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
